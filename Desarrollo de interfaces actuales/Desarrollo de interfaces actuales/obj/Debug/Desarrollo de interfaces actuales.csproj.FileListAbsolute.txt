@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\bin\Debug\Desarrollo de interfaces actuales.exe.config
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\bin\Debug\Desarrollo de interfaces actuales.exe
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\bin\Debug\Desarrollo de interfaces actuales.pdb
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo de interfaces actuales.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo_de_interfaces_actuales.Form1.resources
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo_de_interfaces_actuales.Properties.Resources.resources
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo de interfaces actuales.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo de interfaces actuales.exe
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo de interfaces actuales.pdb
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\source\repos\Desarrollo de interfaces actuales\Desarrollo de interfaces actuales\obj\Debug\Desarrollo de interfaces actuales.csproj.CopyComplete
